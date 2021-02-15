@@ -25,5 +25,5 @@ jobs:
           subject: zhangjiang Weather Report (${{env.REPORT_DATE}})
           body: file://result.html
           to: zjyzwebmaster@126.com
-          from: Happy Github
+          from: Happy Weather Bot
           content_type: text/html
